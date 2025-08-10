@@ -1,6 +1,6 @@
 board:
-  name: esp32s3_eye
-  full_name: ESP32-S3-EYE
+  name: esp32s3_cherry
+  full_name: ESP32-S3-CHERRY
   vendor: espressif
   socs:
   - name: esp32s3

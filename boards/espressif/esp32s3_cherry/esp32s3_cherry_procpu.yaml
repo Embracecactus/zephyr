@@ -1,5 +1,5 @@
-identifier: esp32s3_eye/esp32s3/procpu
-name: ESP32-S3 EYE PROCPU
+identifier: esp32s3_cherry/esp32s3/procpu
+name: ESP32-S3 CHERRY PROCPU
 type: mcu
 arch: xtensa
 toolchain:

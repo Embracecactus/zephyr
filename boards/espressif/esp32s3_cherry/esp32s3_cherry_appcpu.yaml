@@ -1,5 +1,5 @@
-identifier: esp32s3_eye/esp32s3/appcpu
-name: ESP32-S3 EYE APPCPU
+identifier: esp32s3_cherry/esp32s3/appcpu
+name: ESP32-S3 CHERRY APPCPU
 type: mcu
 arch: xtensa
 toolchain:
